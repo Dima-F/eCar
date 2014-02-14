@@ -1,0 +1,20 @@
+﻿@using eCar.Applicaton.Models.Service.Entities
+@model IEnumerable<Department>
+<div class="depMenu">
+    @foreach (var department in Model)    
+    {
+        if (department != Model.Last())
+        {
+                @Html.ActionLink(department.Name + " | ",
+                                   "Browse", "Store",
+                                   new {departmentId = department.DepartmentID}, null)
+        }
+        else
+        {
+                @Html.ActionLink(department.Name,
+                                   "Browse", "Store",
+                                             new { departmentId = department.DepartmentID }, null)
+            
+        }
+    }
+</div>

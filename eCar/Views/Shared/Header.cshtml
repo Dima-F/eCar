@@ -1,0 +1,28 @@
+﻿<header>
+       <div class="main wrap">
+       		<h1>
+                <a href=@Url.Action("Index","Home")><img src="@Url.Content("~/Content/images/logo.png")" alt=""></a>
+            </h1> 
+            <p>Some virtual industry <span>(097) 606 30 56</span></p>
+       </div>
+       <nav>  
+          <ul class="menu">
+              <li class="current"><a href="@Url.Action("Index", "Home" )" class="home"><img src="@Url.Content("~/Content/images/home.jpg")" alt=""></a></li>
+              <li>@Html.ActionLink("Store","Index","Store")</li>
+              @*<li>@{Html.RenderAction("CartSummary", "ShoppingCart");}</li>*@
+              <li><span id="loadShoppingCart"></span></li>
+              <li><a href="@Url.Content("~/StoreManager/")">Admin</a></li>
+              <li>@Html.ActionLink("Contact","Index","Contact")</li>
+              <li>@Html.ActionLink("Rss","Index","Feed")</li>
+              <li style="text-align: right">
+                    @Html.Partial("LogOnPartial")</li>
+          </ul>     
+          <div class="clear"></div>
+        </nav>
+        <div id="search">
+        <form action="@Url.Action("Index","Search")">
+        <b>Search:</b>
+            <input type="text" class="box" name="q" />
+        </form>
+        </div>
+</header>

@@ -1,0 +1,81 @@
+D:\Програми\Веб разработка\MVC\eCar\eCar\bin\eCar.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar\bin\eCar.pdb
+D:\Програми\Веб разработка\MVC\eCar\eCar\bin\AjaxMin.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar\bin\EcmaScript.NET.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar\bin\EntityFramework.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar\bin\Iesi.Collections.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar\bin\Microsoft.Web.Infrastructure.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar\bin\Ninject.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar\bin\Ninject.Web.Common.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar\bin\Ninject.Web.Mvc.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar\bin\SquishIt.Framework.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar\bin\WebActivatorEx.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar\bin\Yahoo.Yui.Compressor.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar\bin\AjaxMin.pdb
+D:\Програми\Веб разработка\MVC\eCar\eCar\bin\EntityFramework.xml
+D:\Програми\Веб разработка\MVC\eCar\eCar\bin\Ninject.xml
+D:\Програми\Веб разработка\MVC\eCar\eCar\bin\Ninject.Web.Common.xml
+D:\Програми\Веб разработка\MVC\eCar\eCar\bin\Ninject.Web.Mvc.xml
+D:\Програми\Веб разработка\MVC\eCar\eCar\bin\SquishIt.Framework.pdb
+D:\Програми\Веб разработка\MVC\eCar\eCar\obj\Debug\ResolveAssemblyReference.cache
+D:\Програми\Веб разработка\MVC\eCar\eCar\obj\Debug\eCar.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar\obj\Debug\eCar.pdb
+D:\Програми\Веб разработка\MVC\eCar\eCar\bin\DotNetOpenAuth.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar\bin\Elmah.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\eCar.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\eCar.pdb
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\AjaxMin.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\Common.Logging.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\EcmaScript.NET.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\Elmah.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\EntityFramework.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\Iesi.Collections.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\Quartz.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\SquishIt.Framework.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\Yahoo.Yui.Compressor.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\AjaxMin.pdb
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\Common.Logging.pdb
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\Common.Logging.xml
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\EntityFramework.xml
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\Quartz.pdb
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\Quartz.xml
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\SquishIt.Framework.pdb
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\obj\Debug\eCar.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\obj\Debug\eCar.pdb
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\AntiXSSLibrary.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\AntiXSSLibrary.xml
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\AppLimit.CloudComputing.oAuth.Net40.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\AppLimit.CloudComputing.SharpBox.Net40.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\Ionic.Zip.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\Newtonsoft.Json.Net40.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\Autofac.Configuration.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\Autofac.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\Autofac.Integration.Mvc.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\bin\Autofac.xml
+C:\Users\Dima\Dropbox\eCar\eCar\bin\eCar.dll
+C:\Users\Dima\Dropbox\eCar\eCar\bin\eCar.pdb
+C:\Users\Dima\Dropbox\eCar\eCar\bin\AjaxMin.dll
+C:\Users\Dima\Dropbox\eCar\eCar\bin\Autofac.Configuration.dll
+C:\Users\Dima\Dropbox\eCar\eCar\bin\Autofac.dll
+C:\Users\Dima\Dropbox\eCar\eCar\bin\Autofac.Integration.Mvc.dll
+C:\Users\Dima\Dropbox\eCar\eCar\bin\Common.Logging.dll
+C:\Users\Dima\Dropbox\eCar\eCar\bin\EcmaScript.NET.dll
+C:\Users\Dima\Dropbox\eCar\eCar\bin\Elmah.dll
+C:\Users\Dima\Dropbox\eCar\eCar\bin\EntityFramework.dll
+C:\Users\Dima\Dropbox\eCar\eCar\bin\Iesi.Collections.dll
+C:\Users\Dima\Dropbox\eCar\eCar\bin\Quartz.dll
+C:\Users\Dima\Dropbox\eCar\eCar\bin\SquishIt.Framework.dll
+C:\Users\Dima\Dropbox\eCar\eCar\bin\Yahoo.Yui.Compressor.dll
+C:\Users\Dima\Dropbox\eCar\eCar\bin\AjaxMin.pdb
+C:\Users\Dima\Dropbox\eCar\eCar\bin\AntiXSSLibrary.xml
+C:\Users\Dima\Dropbox\eCar\eCar\bin\Autofac.xml
+C:\Users\Dima\Dropbox\eCar\eCar\bin\Common.Logging.pdb
+C:\Users\Dima\Dropbox\eCar\eCar\bin\Common.Logging.xml
+C:\Users\Dima\Dropbox\eCar\eCar\bin\EntityFramework.xml
+C:\Users\Dima\Dropbox\eCar\eCar\bin\Quartz.pdb
+C:\Users\Dima\Dropbox\eCar\eCar\bin\Quartz.xml
+C:\Users\Dima\Dropbox\eCar\eCar\bin\SquishIt.Framework.pdb
+C:\Users\Dima\Dropbox\eCar\eCar\obj\Debug\eCar.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Dropbox\eCar\eCar\obj\Debug\eCar.dll
+C:\Users\Dima\Dropbox\eCar\eCar\obj\Debug\eCar.pdb

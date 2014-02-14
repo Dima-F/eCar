@@ -1,0 +1,16 @@
+﻿@using eCar.Controllers
+@model StoreController.AutoModels
+
+@{
+    ViewBag.Title = "Browse" + " | ";// +Model.Base.SiteHeading;
+}
+<h2>Browse</h2>
+<div class="browseBox">
+        @foreach (var auto in Model.Autos)
+        {
+            Html.RenderPartial("Auto",auto);
+        }
+</div>
+<div class="pageLinks"> 
+    @Html.PageLinks(Model.PagingInfo, (c,d,p) => Url.Action("Browse", new {categoryId=c,departmentId=d,page = p})) 
+</div> 

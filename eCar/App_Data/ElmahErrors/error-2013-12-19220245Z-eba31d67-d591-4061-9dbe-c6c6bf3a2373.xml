@@ -1,0 +1,159 @@
+﻿<error errorId="eba31d67-d591-4061-9dbe-c6c6bf3a2373" application="/" host="MICROSOF-9E10B0" type="System.Web.HttpException" message="Контроллер для пути &quot;/not assinged&quot; не найден или не реализует интерфейс IController." source="System.Web.Mvc" detail="System.Web.HttpException (0x80004005): Контроллер для пути &quot;/not assinged&quot; не найден или не реализует интерфейс IController.&#xD;&#xA;   в System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)&#xD;&#xA;   в System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)&#xD;&#xA;   в System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController&amp; controller, IControllerFactory&amp; factory)&#xD;&#xA;   в System.Web.Mvc.MvcHandler.&lt;&gt;c__DisplayClass6.&lt;BeginProcessRequest&gt;b__2()&#xD;&#xA;   в System.Web.Mvc.SecurityUtil.&lt;&gt;c__DisplayClassb`1.&lt;ProcessInApplicationTrust&gt;b__a()&#xD;&#xA;   в System.Web.Mvc.SecurityUtil.&lt;GetCallInAppTrustThunk&gt;b__0(Action f)&#xD;&#xA;   в System.Web.Mvc.SecurityUtil.ProcessInApplicationTrust(Action action)&#xD;&#xA;   в System.Web.Mvc.SecurityUtil.ProcessInApplicationTrust[TResult](Func`1 func)&#xD;&#xA;   в System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)&#xD;&#xA;   в System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)&#xD;&#xA;   в System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)&#xD;&#xA;   в System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()&#xD;&#xA;   в System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean&amp; completedSynchronously)" time="2013-12-19T22:02:45.6562500Z" statusCode="404">
+  <serverVariables>
+    <item name="ALL_HTTP">
+      <value string="HTTP_ACCEPT:*/*&#xD;&#xA;HTTP_ACCEPT_ENCODING:GZIP&#xD;&#xA;HTTP_ACCEPT_LANGUAGE:ru&#xD;&#xA;HTTP_COOKIE:ASP.NET_SessionId=y0hbrabkm1kfpvujckmy1ljz&#xD;&#xA;HTTP_HOST:localhost:1232&#xD;&#xA;HTTP_REFERER:http://localhost:1232/&#xD;&#xA;HTTP_USER_AGENT:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)&#xD;&#xA;" />
+    </item>
+    <item name="ALL_RAW">
+      <value string="Accept: */*&#xD;&#xA;Accept-Encoding: GZIP&#xD;&#xA;Accept-Language: ru&#xD;&#xA;Cookie: ASP.NET_SessionId=y0hbrabkm1kfpvujckmy1ljz&#xD;&#xA;Host: localhost:1232&#xD;&#xA;Referer: http://localhost:1232/&#xD;&#xA;User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)&#xD;&#xA;" />
+    </item>
+    <item name="APPL_MD_PATH">
+      <value string="" />
+    </item>
+    <item name="APPL_PHYSICAL_PATH">
+      <value string="C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\" />
+    </item>
+    <item name="AUTH_TYPE">
+      <value string="" />
+    </item>
+    <item name="AUTH_USER">
+      <value string="" />
+    </item>
+    <item name="AUTH_PASSWORD">
+      <value string="*****" />
+    </item>
+    <item name="LOGON_USER">
+      <value string="MICROSOF-9E10B0\Admin" />
+    </item>
+    <item name="REMOTE_USER">
+      <value string="" />
+    </item>
+    <item name="CERT_COOKIE">
+      <value string="" />
+    </item>
+    <item name="CERT_FLAGS">
+      <value string="" />
+    </item>
+    <item name="CERT_ISSUER">
+      <value string="" />
+    </item>
+    <item name="CERT_KEYSIZE">
+      <value string="" />
+    </item>
+    <item name="CERT_SECRETKEYSIZE">
+      <value string="" />
+    </item>
+    <item name="CERT_SERIALNUMBER">
+      <value string="" />
+    </item>
+    <item name="CERT_SERVER_ISSUER">
+      <value string="" />
+    </item>
+    <item name="CERT_SERVER_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="CERT_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="CONTENT_LENGTH">
+      <value string="0" />
+    </item>
+    <item name="CONTENT_TYPE">
+      <value string="" />
+    </item>
+    <item name="GATEWAY_INTERFACE">
+      <value string="" />
+    </item>
+    <item name="HTTPS">
+      <value string="" />
+    </item>
+    <item name="HTTPS_KEYSIZE">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SECRETKEYSIZE">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SERVER_ISSUER">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SERVER_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="INSTANCE_ID">
+      <value string="" />
+    </item>
+    <item name="INSTANCE_META_PATH">
+      <value string="" />
+    </item>
+    <item name="LOCAL_ADDR">
+      <value string="127.0.0.1" />
+    </item>
+    <item name="PATH_INFO">
+      <value string="/not assinged" />
+    </item>
+    <item name="PATH_TRANSLATED">
+      <value string="C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\not assinged" />
+    </item>
+    <item name="QUERY_STRING">
+      <value string="" />
+    </item>
+    <item name="REMOTE_ADDR">
+      <value string="127.0.0.1" />
+    </item>
+    <item name="REMOTE_HOST">
+      <value string="127.0.0.1" />
+    </item>
+    <item name="REMOTE_PORT">
+      <value string="" />
+    </item>
+    <item name="REQUEST_METHOD">
+      <value string="GET" />
+    </item>
+    <item name="SCRIPT_NAME">
+      <value string="/not assinged" />
+    </item>
+    <item name="SERVER_NAME">
+      <value string="localhost" />
+    </item>
+    <item name="SERVER_PORT">
+      <value string="1232" />
+    </item>
+    <item name="SERVER_PORT_SECURE">
+      <value string="0" />
+    </item>
+    <item name="SERVER_PROTOCOL">
+      <value string="HTTP/1.1" />
+    </item>
+    <item name="SERVER_SOFTWARE">
+      <value string="" />
+    </item>
+    <item name="URL">
+      <value string="/not assinged" />
+    </item>
+    <item name="HTTP_ACCEPT">
+      <value string="*/*" />
+    </item>
+    <item name="HTTP_ACCEPT_ENCODING">
+      <value string="GZIP" />
+    </item>
+    <item name="HTTP_ACCEPT_LANGUAGE">
+      <value string="ru" />
+    </item>
+    <item name="HTTP_COOKIE">
+      <value string="ASP.NET_SessionId=y0hbrabkm1kfpvujckmy1ljz" />
+    </item>
+    <item name="HTTP_HOST">
+      <value string="localhost:1232" />
+    </item>
+    <item name="HTTP_REFERER">
+      <value string="http://localhost:1232/" />
+    </item>
+    <item name="HTTP_USER_AGENT">
+      <value string="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)" />
+    </item>
+  </serverVariables>
+  <cookies>
+    <item name="ASP.NET_SessionId">
+      <value string="y0hbrabkm1kfpvujckmy1ljz" />
+    </item>
+  </cookies>
+</error>

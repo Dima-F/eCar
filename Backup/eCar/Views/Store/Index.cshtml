@@ -1,0 +1,21 @@
+﻿@using eCar.Controllers
+@model StoreController.IndexStoreModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Departments</h2>
+<ul>
+@foreach (var department in Model.Departments)
+{
+    <li>
+        <b>@Html.ActionLink(department.Name,"Browse","Store",new {departmentId=department.DepartmentID},new {style="background-color:white;"})</b> 
+        @foreach (var category in department.Categories)
+        {
+            <ol>@Html.ActionLink(category.Name,"Browse","Store",new {categoryId=category.CategoryID},new {style="background-color:yellow;"})</ol>
+        }       
+    </li>
+}
+</ul>
+

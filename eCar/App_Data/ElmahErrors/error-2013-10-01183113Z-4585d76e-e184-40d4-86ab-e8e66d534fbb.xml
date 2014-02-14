@@ -1,0 +1,174 @@
+﻿<error errorId="4585d76e-e184-40d4-86ab-e8e66d534fbb" application="/" host="MICROSOF-9E10B0" type="System.Web.HttpException" message="Файл не существует." source="System.Web" detail="System.Web.HttpException (0x80004005): Файл не существует.&#xD;&#xA;   в System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)&#xD;&#xA;   в System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)&#xD;&#xA;   в System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)&#xD;&#xA;   в System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()&#xD;&#xA;   в System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean&amp; completedSynchronously)" user="Administrator" time="2013-10-01T18:31:13.1875000Z" statusCode="404">
+  <serverVariables>
+    <item name="ALL_HTTP">
+      <value string="HTTP_CONNECTION:keep-alive&#xD;&#xA;HTTP_ACCEPT:*/*&#xD;&#xA;HTTP_ACCEPT_CHARSET:windows-1251,utf-8;q=0.7,*;q=0.3&#xD;&#xA;HTTP_ACCEPT_ENCODING:gzip,deflate,sdch&#xD;&#xA;HTTP_ACCEPT_LANGUAGE:ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4&#xD;&#xA;HTTP_COOKIE:Nop.customer=c7e7063c-934e-478b-a073-fdd4add57fe4; ASP.NET_SessionId=nn1nmq1lqh2bxidoa4232unn; .ASPXAUTH=41536FD136871A4959EFC1098CFDD124DEF7D79560019CFF2BF9B024CED721F703FC2AF5C86D88DF5EFFA0CF40DE75EFE893AE7B28BC6FDAB781010BE10177269145E7E10F8A4E2099A8EA54170600AFB6A26D311A4197AEB76A92748C3DC4732D887E3B674DB1F2EC4098EA686B5641090DBDC9079A04D02B63D2D2D429A6402F2091CAEECBB8E511C0B9DA2B70996DB2E519477C8FC4378A0F0B24A1A0C9C4; openid_provider=google&#xD;&#xA;HTTP_HOST:localhost:1232&#xD;&#xA;HTTP_REFERER:http://localhost:1232/Store/Details/2&#xD;&#xA;HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.47 Safari/535.11 MRCHROME&#xD;&#xA;" />
+    </item>
+    <item name="ALL_RAW">
+      <value string="Connection: keep-alive&#xD;&#xA;Accept: */*&#xD;&#xA;Accept-Charset: windows-1251,utf-8;q=0.7,*;q=0.3&#xD;&#xA;Accept-Encoding: gzip,deflate,sdch&#xD;&#xA;Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4&#xD;&#xA;Cookie: Nop.customer=c7e7063c-934e-478b-a073-fdd4add57fe4; ASP.NET_SessionId=nn1nmq1lqh2bxidoa4232unn; .ASPXAUTH=41536FD136871A4959EFC1098CFDD124DEF7D79560019CFF2BF9B024CED721F703FC2AF5C86D88DF5EFFA0CF40DE75EFE893AE7B28BC6FDAB781010BE10177269145E7E10F8A4E2099A8EA54170600AFB6A26D311A4197AEB76A92748C3DC4732D887E3B674DB1F2EC4098EA686B5641090DBDC9079A04D02B63D2D2D429A6402F2091CAEECBB8E511C0B9DA2B70996DB2E519477C8FC4378A0F0B24A1A0C9C4; openid_provider=google&#xD;&#xA;Host: localhost:1232&#xD;&#xA;Referer: http://localhost:1232/Store/Details/2&#xD;&#xA;User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.47 Safari/535.11 MRCHROME&#xD;&#xA;" />
+    </item>
+    <item name="APPL_MD_PATH">
+      <value string="" />
+    </item>
+    <item name="APPL_PHYSICAL_PATH">
+      <value string="C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\" />
+    </item>
+    <item name="AUTH_TYPE">
+      <value string="Forms" />
+    </item>
+    <item name="AUTH_USER">
+      <value string="Administrator" />
+    </item>
+    <item name="AUTH_PASSWORD">
+      <value string="*****" />
+    </item>
+    <item name="LOGON_USER">
+      <value string="MICROSOF-9E10B0\Admin" />
+    </item>
+    <item name="REMOTE_USER">
+      <value string="Administrator" />
+    </item>
+    <item name="CERT_COOKIE">
+      <value string="" />
+    </item>
+    <item name="CERT_FLAGS">
+      <value string="" />
+    </item>
+    <item name="CERT_ISSUER">
+      <value string="" />
+    </item>
+    <item name="CERT_KEYSIZE">
+      <value string="" />
+    </item>
+    <item name="CERT_SECRETKEYSIZE">
+      <value string="" />
+    </item>
+    <item name="CERT_SERIALNUMBER">
+      <value string="" />
+    </item>
+    <item name="CERT_SERVER_ISSUER">
+      <value string="" />
+    </item>
+    <item name="CERT_SERVER_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="CERT_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="CONTENT_LENGTH">
+      <value string="0" />
+    </item>
+    <item name="CONTENT_TYPE">
+      <value string="" />
+    </item>
+    <item name="GATEWAY_INTERFACE">
+      <value string="" />
+    </item>
+    <item name="HTTPS">
+      <value string="" />
+    </item>
+    <item name="HTTPS_KEYSIZE">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SECRETKEYSIZE">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SERVER_ISSUER">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SERVER_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="INSTANCE_ID">
+      <value string="" />
+    </item>
+    <item name="INSTANCE_META_PATH">
+      <value string="" />
+    </item>
+    <item name="LOCAL_ADDR">
+      <value string="127.0.0.1" />
+    </item>
+    <item name="PATH_INFO">
+      <value string="/Store/Details/~/Content/images/Passenger cars/buick_enclave.jpg" />
+    </item>
+    <item name="PATH_TRANSLATED">
+      <value string="C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar\Store\Details\~\Content\images\Passenger cars\buick_enclave.jpg" />
+    </item>
+    <item name="QUERY_STRING">
+      <value string="" />
+    </item>
+    <item name="REMOTE_ADDR">
+      <value string="127.0.0.1" />
+    </item>
+    <item name="REMOTE_HOST">
+      <value string="127.0.0.1" />
+    </item>
+    <item name="REMOTE_PORT">
+      <value string="" />
+    </item>
+    <item name="REQUEST_METHOD">
+      <value string="GET" />
+    </item>
+    <item name="SCRIPT_NAME">
+      <value string="/Store/Details/~/Content/images/Passenger cars/buick_enclave.jpg" />
+    </item>
+    <item name="SERVER_NAME">
+      <value string="localhost" />
+    </item>
+    <item name="SERVER_PORT">
+      <value string="1232" />
+    </item>
+    <item name="SERVER_PORT_SECURE">
+      <value string="0" />
+    </item>
+    <item name="SERVER_PROTOCOL">
+      <value string="HTTP/1.1" />
+    </item>
+    <item name="SERVER_SOFTWARE">
+      <value string="" />
+    </item>
+    <item name="URL">
+      <value string="/Store/Details/~/Content/images/Passenger cars/buick_enclave.jpg" />
+    </item>
+    <item name="HTTP_CONNECTION">
+      <value string="keep-alive" />
+    </item>
+    <item name="HTTP_ACCEPT">
+      <value string="*/*" />
+    </item>
+    <item name="HTTP_ACCEPT_CHARSET">
+      <value string="windows-1251,utf-8;q=0.7,*;q=0.3" />
+    </item>
+    <item name="HTTP_ACCEPT_ENCODING">
+      <value string="gzip,deflate,sdch" />
+    </item>
+    <item name="HTTP_ACCEPT_LANGUAGE">
+      <value string="ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4" />
+    </item>
+    <item name="HTTP_COOKIE">
+      <value string="Nop.customer=c7e7063c-934e-478b-a073-fdd4add57fe4; ASP.NET_SessionId=nn1nmq1lqh2bxidoa4232unn; .ASPXAUTH=41536FD136871A4959EFC1098CFDD124DEF7D79560019CFF2BF9B024CED721F703FC2AF5C86D88DF5EFFA0CF40DE75EFE893AE7B28BC6FDAB781010BE10177269145E7E10F8A4E2099A8EA54170600AFB6A26D311A4197AEB76A92748C3DC4732D887E3B674DB1F2EC4098EA686B5641090DBDC9079A04D02B63D2D2D429A6402F2091CAEECBB8E511C0B9DA2B70996DB2E519477C8FC4378A0F0B24A1A0C9C4; openid_provider=google" />
+    </item>
+    <item name="HTTP_HOST">
+      <value string="localhost:1232" />
+    </item>
+    <item name="HTTP_REFERER">
+      <value string="http://localhost:1232/Store/Details/2" />
+    </item>
+    <item name="HTTP_USER_AGENT">
+      <value string="Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.47 Safari/535.11 MRCHROME" />
+    </item>
+  </serverVariables>
+  <cookies>
+    <item name="Nop.customer">
+      <value string="c7e7063c-934e-478b-a073-fdd4add57fe4" />
+    </item>
+    <item name="ASP.NET_SessionId">
+      <value string="nn1nmq1lqh2bxidoa4232unn" />
+    </item>
+    <item name=".ASPXAUTH">
+      <value string="41536FD136871A4959EFC1098CFDD124DEF7D79560019CFF2BF9B024CED721F703FC2AF5C86D88DF5EFFA0CF40DE75EFE893AE7B28BC6FDAB781010BE10177269145E7E10F8A4E2099A8EA54170600AFB6A26D311A4197AEB76A92748C3DC4732D887E3B674DB1F2EC4098EA686B5641090DBDC9079A04D02B63D2D2D429A6402F2091CAEECBB8E511C0B9DA2B70996DB2E519477C8FC4378A0F0B24A1A0C9C4" />
+    </item>
+    <item name="openid_provider">
+      <value string="google" />
+    </item>
+  </cookies>
+</error>

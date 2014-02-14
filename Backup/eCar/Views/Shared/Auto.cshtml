@@ -1,0 +1,9 @@
+﻿@using eCar.Controllers
+@model StoreController.AutoModel
+        <div class="autoBox">
+            <img src="@Url.Content(Model.Thumbnail)" alt="@Model.Name"/>
+            <p class="text-1">@Model.Name <strong>@String.Format("{0:F}", Model.Price)</strong></p>
+            <p class="upper"><a href="#" class="link" rel="nofollow" target="_blank"></a> @Model.ShortDescription</p>
+            <a href="@Url.Action("Details","Store",new {id=Model.AutoID})" class="button">Read More</a>
+        </div>
+

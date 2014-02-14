@@ -1,0 +1,18 @@
+﻿@using Microsoft.Security.Application
+
+@{
+    ViewBag.Title="AntiXss";
+}
+<h2 id="welcome-message"></h2>
+@section Scripts{
+@if(@ViewBag.UserName != null) {
+<script type="text/javascript">
+    $(function () {
+        var message = 'Welcome, @Encoder.JavaScriptEncode(ViewBag.UserName, false)!';
+        $("#welcome-message").html(message).hide().show('slow');
+    });
+</script>
+}
+}
+
+

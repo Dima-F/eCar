@@ -1,0 +1,46 @@
+D:\Програми\Веб разработка\MVC\eCar\eCar.Tests\bin\Debug\eCar.Tests.dll.config
+D:\Програми\Веб разработка\MVC\eCar\eCar.Tests\bin\Debug\eCar.Tests.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar.Tests\bin\Debug\eCar.Tests.pdb
+D:\Програми\Веб разработка\MVC\eCar\eCar.Tests\bin\Debug\eCar.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar.Tests\bin\Debug\EntityFramework.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar.Tests\bin\Debug\Ninject.Web.Common.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar.Tests\bin\Debug\Ninject.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar.Tests\bin\Debug\WebActivatorEx.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar.Tests\bin\Debug\eCar.pdb
+D:\Програми\Веб разработка\MVC\eCar\eCar.Tests\bin\Debug\EntityFramework.xml
+D:\Програми\Веб разработка\MVC\eCar\eCar.Tests\bin\Debug\Ninject.Web.Common.xml
+D:\Програми\Веб разработка\MVC\eCar\eCar.Tests\bin\Debug\Ninject.xml
+D:\Програми\Веб разработка\MVC\eCar\eCar.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Програми\Веб разработка\MVC\eCar\eCar.Tests\obj\Debug\eCar.Tests.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar.Tests\obj\Debug\eCar.Tests.pdb
+D:\Програми\Веб разработка\MVC\eCar\eCar.Tests\bin\Debug\Iesi.Collections.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar.Tests\bin\Debug\DotNetOpenAuth.dll
+D:\Програми\Веб разработка\MVC\eCar\eCar.Tests\bin\Debug\Elmah.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\eCar.Tests.dll.config
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\eCar.Tests.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\eCar.Tests.pdb
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\eCar.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\EntityFramework.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\DotNetOpenAuth.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\Quartz.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\Iesi.Collections.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\Elmah.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\Common.Logging.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\eCar.pdb
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\EntityFramework.xml
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\Quartz.pdb
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\Quartz.xml
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\Common.Logging.pdb
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\Common.Logging.xml
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\obj\Debug\eCar.Tests.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\obj\Debug\eCar.Tests.pdb
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\AppLimit.CloudComputing.SharpBox.Net40.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\Ionic.Zip.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\AppLimit.CloudComputing.oAuth.Net40.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\Newtonsoft.Json.Net40.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\Autofac.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\Autofac.xml
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\LoadTest1.loadtest
+C:\Documents and Settings\Admin\Мои документы\Dropbox\eCar\eCar.Tests\bin\Debug\WebTestHomePage.webtest

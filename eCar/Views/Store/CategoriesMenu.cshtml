@@ -1,0 +1,20 @@
+﻿@using eCar.Applicaton.Models.Service.Entities
+@model IEnumerable<Category>
+<div class="catMenu">
+    @foreach (var category in Model)    
+    {
+        if (category != Model.Last())
+        {
+            @Html.ActionLink(category.Name + " | ",
+                                   "Browse", "Store",
+                                   new {categoryId = category.CategoryID}, null)
+        }
+        else
+        {
+            @Html.ActionLink(category.Name,
+                                   "Browse", "Store",
+                                   new { categoryId = category.CategoryID }, null)
+        }
+    }
+</div>           
+

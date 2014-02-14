@@ -1,0 +1,871 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/f:Jobs.config" caret="493" fromTop="13" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/f:Jobs.Debug.config" caret="609" fromTop="16" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/f:Global.asax.cs" caret="5019" fromTop="19" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Applicaton/d:Job/f:AutofacJobFactory.cs" caret="673" fromTop="15" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Applicaton/d:Job/f:Beckup.cs" caret="586" fromTop="18" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Applicaton/d:Models/d:Service/d:Entities/f:OrderDetail.cs" caret="500" fromTop="15" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Applicaton/d:Models/d:Service/d:Entities/f:Order.cs" caret="377" fromTop="11" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Applicaton/d:Models/d:Service/d:Entities/f:MyConfig.cs" caret="0" fromTop="0" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Applicaton/d:Models/d:Service/d:Entities/f:Department.cs" caret="634" fromTop="15" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Applicaton/d:Models/d:Service/d:Entities/f:Category.cs" caret="0" fromTop="0" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Applicaton/d:Models/d:Service/d:Entities/f:Auto.cs" caret="494" fromTop="16" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Applicaton/d:Models/d:Service/d:Entities/f:Cart.cs" caret="0" fromTop="0" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Applicaton/d:Models/f:ECarContext.cs" caret="731" fromTop="17" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Applicaton/d:Models/d:Configuration/d:Fluent API/f:AutoConfiguration.cs" caret="376" fromTop="13" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Applicaton/d:Models/f:SampleData.cs" caret="186" fromTop="5" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Views/d:Shared/f:Footer.cshtml" caret="0" fromTop="0" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Views/d:Shared/f:Auto.cshtml" caret="0" fromTop="0" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Controllers/f:HomeController.cs" caret="909" fromTop="18" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Views/d:Home/f:Index.cshtml" caret="733" fromTop="21" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Views/d:Shared/f:LogOnPartial.cshtml" caret="307" fromTop="6" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Views/d:Shared/f:Header.cshtml" caret="1059" fromTop="19" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Views/d:Shared/f:MyLayout.cshtml" caret="1796" fromTop="43" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Views/d:ShoppingCart/f:CartSummary.cshtml" caret="119" fromTop="3" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Controllers/f:ShoppingCartController.cs" caret="2579" fromTop="24" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:App_Readme/f:RememberInfo.txt" caret="13716" fromTop="30" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Applicaton/d:Models/f:RssResult.cs" caret="1030" fromTop="16" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Controllers/f:StoreController.cs" caret="3405" fromTop="17" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/f:Web.config" caret="5302" fromTop="27" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Controllers/f:StoreManagerController.cs" caret="0" fromTop="0" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Views/d:Store/f:Browse.cshtml" caret="110" fromTop="4" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/f:Global.asax.cs" caret="5019" fromTop="19" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Applicaton/d:Models/f:ECarContext.cs" caret="717" fromTop="16" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Applicaton/d:Models/d:Configuration/d:Fluent API/f:AutoConfiguration.cs" caret="365" fromTop="12" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Applicaton/d:Models/d:Service/d:Entities/f:Auto.cs" caret="63" fromTop="1" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Applicaton/d:Models/d:Service/d:Entities/f:Auto.cs" caret="324" fromTop="11" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Views/d:Shared/f:MyLayout.cshtml" caret="520" fromTop="15" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Applicaton/d:Models/f:SampleData.cs" caret="38338" fromTop="26" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:App_Readme/f:RememberInfo.txt" caret="1210" fromTop="18" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:App_Readme/f:RememberInfo.txt" caret="12138" fromTop="13" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/f:Web.config" caret="1382" fromTop="19" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:App_Readme/f:RememberInfo.txt" caret="11533" fromTop="17" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Controllers/f:HomeController.cs" caret="408" fromTop="8" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Views/d:Shared/f:LogOnPartial.cshtml" caret="239" fromTop="2" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Views/d:Home/f:Index.cshtml" caret="270" fromTop="8" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Views/d:Shared/f:Header.cshtml" caret="1281" fromTop="27" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Views/d:Shared/f:MyLayout.cshtml" caret="2141" fromTop="7" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Views/d:Shared/f:MyLayout.cshtml" caret="1124" fromTop="5" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Views/d:Shared/f:MyLayout.cshtml" caret="1809" fromTop="17" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Views/d:Shared/f:MyLayout.cshtml" caret="1809" fromTop="18" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Views/d:Shared/f:Header.cshtml" caret="629" fromTop="11" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Controllers/f:ShoppingCartController.cs" caret="2384" fromTop="24" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Views/d:Shared/f:MyLayout.cshtml" caret="1662" fromTop="19" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/f:Web.config" caret="2102" fromTop="11" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Controllers/f:StoreController.cs" caret="579" fromTop="6" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Controllers/f:StoreController.cs" caret="3456" fromTop="30" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:Controllers/f:StoreController.cs" caret="2211" fromTop="20" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/f:Web.config" caret="2102" fromTop="11" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/f:Web.config" caret="5288" fromTop="35" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:App_Readme/f:RememberInfo.txt" caret="13718" fromTop="30" />
+      <File id="CB746CCA-3C29-470A-B3CA-2F2673754EBC/d:App_Readme/f:RememberInfo.txt" caret="13512" fromTop="23" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="2522" />
+      <Item value="int" priority="735" />
+      <Item value="string" priority="925" />
+      <Item value="decimal" priority="63" />
+      <Item value="bool" priority="223" />
+      <Item value="virtual" priority="191" />
+      <Item value="ICollection" priority="95" />
+      <Item value="Auto`0" priority="638" />
+      <Item value="Category`0" priority="763" />
+      <Item value="Categories" priority="353" />
+      <Item value="Department`0" priority="287" />
+      <Item value="StringLength" priority="31" />
+      <Item value="DbSet" priority="159" />
+      <Item value="GetHashCode`0" priority="31" />
+      <Item value="Set`0" priority="31" />
+      <Item value="Autos" priority="217" />
+      <Item value="Departments" priority="64" />
+      <Item value="SampleData`0" priority="31" />
+      <Item value="ECarContext`0" priority="95" />
+      <Item value="protected" priority="63" />
+      <Item value="override" priority="127" />
+      <Item value="var" priority="383" />
+      <Item value="new" priority="1315" />
+      <Item value="List" priority="154" />
+      <Item value="Department" priority="61" />
+      <Item value="UriHostNameType`0" priority="31" />
+      <Item value="Name" priority="221" />
+      <Item value="d" priority="194" />
+      <Item value="context" priority="414" />
+      <Item value="categories" priority="741" />
+      <Item value="DepartmentID" priority="64" />
+      <Item value="departments" priority="65" />
+      <Item value="Description" priority="197" />
+      <Item value="ECarContext" priority="57" />
+      <Item value="Auto" priority="90" />
+      <Item value="c" priority="673" />
+      <Item value="Image" priority="65" />
+      <Item value="Price" priority="93" />
+      <Item value="PromoFront" priority="65" />
+      <Item value="true" priority="386" />
+      <Item value="PromoDept" priority="65" />
+      <Item value="false" priority="289" />
+      <Item value="Thumbnail" priority="93" />
+      <Item value="autos" priority="576" />
+      <Item value="a" priority="963" />
+      <Item value="null" priority="190" />
+      <Item value="HashSet&lt;Category&gt;" priority="28" />
+      <Item value="Category" priority="120" />
+      <Item value="cat1" priority="63" />
+      <Item value="cat3" priority="31" />
+      <Item value="#region" priority="127" />
+      <Item value="#endregion" priority="95" />
+      <Item value="List&lt;Category&gt;" priority="57" />
+      <Item value="try" priority="127" />
+      <Item value="exc" priority="63" />
+      <Item value="Table" priority="31" />
+      <Item value="foreach" priority="125" />
+      <Item value="auto" priority="352" />
+      <Item value="if" priority="445" />
+      <Item value="exception" priority="128" />
+      <Item value="IList" priority="32" />
+      <Item value="DbEntityValidationException`0" priority="31" />
+      <Item value="m" priority="127" />
+      <Item value="dbEntityValidationResult" priority="31" />
+      <Item value="ToString`0" priority="26" />
+      <Item value="builder" priority="96" />
+      <Item value="StringBuilder" priority="28" />
+      <Item value="dbValidationError" priority="31" />
+      <Item value="void" priority="159" />
+      <Item value="Func" priority="95" />
+      <Item value="T`0" priority="95" />
+      <Item value="where" priority="31" />
+      <Item value="class" priority="475" />
+      <Item value="IObjectService" priority="159" />
+      <Item value="AutoService`0" priority="31" />
+      <Item value="IRepository`0" priority="127" />
+      <Item value="_repository" priority="641" />
+      <Item value="repository" priority="194" />
+      <Item value="return" priority="767" />
+      <Item value="IQueryable`0" priority="63" />
+      <Item value="filter" priority="65" />
+      <Item value="entity" priority="223" />
+      <Item value="predicate" priority="190" />
+      <Item value="Expression" priority="32" />
+      <Item value="CategoryService`0" priority="31" />
+      <Item value="_Repository" priority="32" />
+      <Item value="private" priority="192" />
+      <Item value="DepartmentService`0" priority="31" />
+      <Item value="FieldAccessException`0" priority="32" />
+      <Item value="service" priority="64" />
+      <Item value="AutoService" priority="28" />
+      <Item value="EFRepository" priority="28" />
+      <Item value="LayoutController`0" priority="127" />
+      <Item value="RenderSection`0" priority="91" />
+      <Item value="section" priority="239" />
+      <Item value="this" priority="127" />
+      <Item value="Html" priority="329" />
+      <Item value="Bundle`0" priority="31" />
+      <Item value="Minifiers" priority="20" />
+      <Item value="CSS" priority="20" />
+      <Item value="IEnumerable" priority="378" />
+      <Item value="category" priority="321" />
+      <Item value="else" priority="319" />
+      <Item value="Server" priority="31" />
+      <Item value="Model" priority="255" />
+      <Item value="categoryId" priority="575" />
+      <Item value="Services`0" priority="31" />
+      <Item value="Services" priority="1631" />
+      <Item value="ActionResult`0" priority="95" />
+      <Item value="View`0" priority="159" />
+      <Item value="x" priority="63" />
+      <Item value="ViewBag" priority="466" />
+      <Item value="partial" priority="185" />
+      <Item value="LayoutModel`0" priority="219" />
+      <Item value="AutoModel" priority="59" />
+      <Item value="AutoID" priority="63" />
+      <Item value="ShortDescription" priority="32" />
+      <Item value="models" priority="31" />
+      <Item value="department" priority="189" />
+      <Item value="Microsoft" priority="26" />
+      <Item value="DepartmentsMenu" priority="32" />
+      <Item value="departmentId" priority="255" />
+      <Item value="Url" priority="59" />
+      <Item value="in" priority="31" />
+      <Item value="ol" priority="29" />
+      <Item value="Iesi" priority="31" />
+      <Item value="CategoryModel`0" priority="31" />
+      <Item value="DepartmentModel`0" priority="31" />
+      <Item value="IndexStoreModel" priority="28" />
+      <Item value="DepartmentModel" priority="28" />
+      <Item value="CategoryModel" priority="28" />
+      <Item value="CategoryID" priority="31" />
+      <Item value="model" priority="447" />
+      <Item value="PageSize" priority="128" />
+      <Item value="page" priority="64" />
+      <Item value="PagingInfo`0" priority="31" />
+      <Item value="PagingInfo" priority="94" />
+      <Item value="CurrentPage" priority="31" />
+      <Item value="ItemsPerPage" priority="32" />
+      <Item value="TotalItems" priority="32" />
+      <Item value="Browse" priority="32" />
+      <Item value="html" priority="31" />
+      <Item value="Int32`0" priority="31" />
+      <Item value="Nullable" priority="31" />
+      <Item value="Order`0" priority="31" />
+      <Item value="OrderDetail`0" priority="31" />
+      <Item value="OrderDetails" priority="32" />
+      <Item value="CartService`0" priority="63" />
+      <Item value="Repository" priority="31" />
+      <Item value="ShoppingCart`0" priority="63" />
+      <Item value="CartService" priority="124" />
+      <Item value="ShoppingCartId" priority="95" />
+      <Item value="GetCartId`0" priority="127" />
+      <Item value="interface" priority="30" />
+      <Item value="ShoppingCart" priority="61" />
+      <Item value="cart" priority="31" />
+      <Item value="static" priority="63" />
+      <Item value="ShoppingCartService`0" priority="95" />
+      <Item value="IShoppingCartService`0" priority="95" />
+      <Item value="shoppingCartService" priority="64" />
+      <Item value="_ShoppingCartService" priority="32" />
+      <Item value="ShoppingCartService" priority="149" />
+      <Item value="shoppingCart" priority="64" />
+      <Item value="HttpContext`0" priority="95" />
+      <Item value="HttpContext" priority="60" />
+      <Item value="HttpContextBase`0" priority="31" />
+      <Item value="item" priority="31" />
+      <Item value="ninjectKernel" priority="159" />
+      <Item value="ICartService`0" priority="31" />
+      <Item value="IOrderService`0" priority="31" />
+      <Item value="OrderService`0" priority="31" />
+      <Item value="IOrderDetailService`0" priority="63" />
+      <Item value="addedAuto" priority="31" />
+      <Item value="_dataContext" priority="31" />
+      <Item value="autoName" priority="63" />
+      <Item value="ViewData" priority="63" />
+      <Item value="cartItem" priority="63" />
+      <Item value="itemCount" priority="31" />
+      <Item value="DataType" priority="31" />
+      <Item value="DataType`0" priority="31" />
+      <Item value="AutoDetailsModel" priority="26" />
+      <Item value="String`0" priority="63" />
+      <Item value="strong" priority="29" />
+      <Item value="ModelState" priority="127" />
+      <Item value="MultiSelectList" priority="26" />
+      <Item value="MultiSelectList`0" priority="32" />
+      <Item value="EntityCollection&lt;Category&gt;" priority="86" />
+      <Item value="EntityCollection&lt;Auto&gt;" priority="28" />
+      <Item value="HashedSet&lt;Category&gt;" priority="88" />
+      <Item value="HashedSet&lt;Auto&gt;" priority="29" />
+      <Item value="autoCategory" priority="31" />
+      <Item value="Index" priority="32" />
+      <Item value="DbContext`0" priority="31" />
+      <Item value="carContext" priority="32" />
+      <Item value="ScaffoldColumn" priority="31" />
+      <Item value="ErrorMessage" priority="95" />
+      <Item value="DisplayName" priority="31" />
+      <Item value="Authorize" priority="31" />
+      <Item value="Roles" priority="31" />
+      <Item value="AuthenticateService" priority="32" />
+      <Item value="IAuthenticateService`0" priority="63" />
+      <Item value="authenticateService" priority="64" />
+      <Item value="membershipService" priority="64" />
+      <Item value="Authentication" priority="31" />
+      <Item value="Membership" priority="31" />
+      <Item value="kernel" priority="127" />
+      <Item value="FormsAuthenticationService`0" priority="31" />
+      <Item value="IMembershipService`0" priority="31" />
+      <Item value="AccountMembershipService`0" priority="31" />
+      <Item value="openid" priority="31" />
+      <Item value="isUserOnline" priority="31" />
+      <Item value="Account" priority="32" />
+      <Item value="OpenId" priority="32" />
+      <Item value="createStatus" priority="95" />
+      <Item value="MembershipCreateStatus`0" priority="63" />
+      <Item value="result" priority="31" />
+      <Item value="error" priority="127" />
+      <Item value="ErrorCodeToString`0" priority="31" />
+      <Item value="out" priority="31" />
+      <Item value="User" priority="31" />
+      <Item value="throw" priority="31" />
+      <Item value="ElmahHandleErrorAttribute" priority="26" />
+      <Item value="JobDetailImpl" priority="28" />
+      <Item value="trigger" priority="32" />
+      <Item value="SimpleTriggerImpl" priority="28" />
+      <Item value="DateTimeOffset`0" priority="31" />
+      <Item value="DateTime`0" priority="31" />
+      <Item value="TimeSpan`0" priority="31" />
+      <Item value="IJob`0" priority="95" />
+      <Item value="ConfigService`0" priority="95" />
+      <Item value="Config" priority="31" />
+      <Item value="IConfigService`0" priority="63" />
+      <Item value="configService" priority="64" />
+      <Item value="IsRequired" priority="31" />
+      <Item value="DefaultValue" priority="63" />
+      <Item value="base" priority="63" />
+      <Item value="value" priority="31" />
+      <Item value="ConfigurationElement`0" priority="31" />
+      <Item value="MyConfig`0" priority="96" />
+      <Item value="ContactFormConfig`0" priority="31" />
+      <Item value="_myConfig" priority="96" />
+      <Item value="MigrateShoppingCart`0" priority="95" />
+      <Item value="user" priority="31" />
+      <Item value="order" priority="63" />
+      <Item value="UserName" priority="31" />
+      <Item value="listener" priority="31" />
+      <Item value="Cloud" priority="64" />
+      <Item value="A`0" priority="63" />
+      <Item value="A" priority="28" />
+      <Item value="ICloudStorageAccessToken`0" priority="31" />
+      <Item value="DropBoxBaseTokenInformation" priority="26" />
+      <Item value="_cloudeStorageTokens" priority="31" />
+      <Item value="storage" priority="31" />
+      <Item value="ICloudeStorageCredentials`0" priority="31" />
+      <Item value="ICloudService`0" priority="63" />
+      <Item value="cloudService" priority="64" />
+      <Item value="CloudService`0" priority="31" />
+      <Item value="catch" priority="31" />
+      <Item value="Exception`0" priority="31" />
+      <Item value="IContainer`0" priority="31" />
+      <Item value="container" priority="32" />
+      <Item value="Beckup`0" priority="63" />
+      <Item value="CronTrigger" priority="28" />
+      <Item value="sched" priority="31" />
+      <Item value="JobBuilder`0" priority="31" />
+      <Item value="jobDetail" priority="32" />
+      <Item value="AutoConfiguration`0" priority="62" />
+      <Item value="Property`1" priority="31" />
+      <Item value="p" priority="31" />
+      <Item value="modelBuilder" priority="31" />
+      <Item value="Duration" priority="63" />
+      <Item value="HttpGet" priority="31" />
+      <Item value="OutputCache" priority="63" />
+      <Item value="CacheProfile" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="ForEach`0" priority="217" />
+      <Item value="Single`1" priority="193" />
+      <Item value="Select`2" priority="82" />
+      <Item value="FindAll`0" priority="27" />
+      <Item value="FirstOrDefault`1" priority="26" />
+      <Item value="FindLast`0" priority="27" />
+      <Item value="Add`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Models.ECarContext">
+      <Item value="Departments" priority="53" />
+      <Item value="Categories" priority="81" />
+      <Item value="Autos" priority="108" />
+      <Item value="SaveChanges`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.DbSet`1">
+      <Item value="Add`0" priority="134" />
+      <Item value="First`1" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Models.Department">
+      <Item value="Name" priority="80" />
+      <Item value="DepartmentID" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Models.Category">
+      <Item value="Name" priority="162" />
+      <Item value="Autos" priority="192" />
+      <Item value="CategoryID" priority="163" />
+      <Item value="DepartmentID" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="All`1" priority="27" />
+      <Item value="Last`1" priority="26" />
+      <Item value="OrderBy`2" priority="23" />
+      <Item value="Skip`1" priority="28" />
+      <Item value="Take`1" priority="27" />
+      <Item value="Count`1" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Models.Auto">
+      <Item value="Price" priority="54" />
+      <Item value="Categories" priority="162" />
+      <Item value="Name" priority="81" />
+      <Item value="AutoID" priority="81" />
+      <Item value="Image" priority="54" />
+      <Item value="Description" priority="109" />
+      <Item value="PromoDept" priority="26" />
+      <Item value="Thumbnail" priority="55" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.ICollection`1">
+      <Item value="Add`0" priority="134" />
+      <Item value="ToArray`1" priority="26" />
+      <Item value="SingleOrDefault`1" priority="53" />
+      <Item value="All`1" priority="108" />
+      <Item value="Select`2" priority="27" />
+      <Item value="ToList`1" priority="26" />
+      <Item value="Clear`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.Validation.DbEntityValidationException">
+      <Item value="Message" priority="53" />
+      <Item value="EntityValidationErrors" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.Validation.DbEntityValidationResult">
+      <Item value="ValidationErrors" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString`0" priority="81" />
+      <Item value="Take`1" priority="27" />
+      <Item value="Substring`0" priority="23" />
+      <Item value="Length" priority="55" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="AppendLine`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.Validation.DbValidationError">
+      <Item value="ErrorMessage" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Models.Repository.IRepository">
+      <Item value="Query`1" priority="161" />
+      <Item value="Delete`1" priority="26" />
+      <Item value="Update`1" priority="27" />
+      <Item value="Insert`1" priority="54" />
+      <Item value="SingleOrDefault`1" priority="108" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="AsQueryable`1" priority="26" />
+      <Item value="Where`1" priority="53" />
+      <Item value="Count`1" priority="26" />
+      <Item value="Select`2" priority="56" />
+      <Item value="Include`1" priority="26" />
+      <Item value="ToList`1" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Func`2">
+      <Item value="Clone`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Models.Service.Interfaces.IAutoService">
+      <Item value="Query`0" priority="161" />
+      <Item value="SingleOrDefault`0" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="Partial`0" priority="81" />
+      <Item value="EditorFor`2" priority="54" />
+      <Item value="EditorForModel`0" priority="26" />
+      <Item value="Label`0" priority="26" />
+      <Item value="Raw`0" priority="26" />
+      <Item value="ActionLink`0" priority="109" />
+      <Item value="RenderPartial`0" priority="83" />
+      <Item value="RenderAction`0" priority="27" />
+      <Item value="DropDownListFor`2" priority="54" />
+      <Item value="ValidationMessageFor`2" priority="53" />
+      <Item value="ListBoxFor`2" priority="54" />
+      <Item value="ValidationMessage`0" priority="26" />
+      <Item value="Encode`0" priority="29" />
+    </ItemStatistics>
+    <ItemStatistics item="RazorTransitionCompletionContext">
+      <Item value="RenderSection`0" priority="19" />
+      <Item value="section" priority="69" />
+      <Item value="if" priority="7" />
+      <Item value="Html" priority="93" />
+      <Item value="ViewBag" priority="35" />
+      <Item value="department" priority="7" />
+      <Item value="Url" priority="17" />
+      <Item value="foreach" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="HtmlCodeCompletionContext">
+      <Item value="Slider" priority="11" />
+      <Item value="Minifiers" priority="4" />
+      <Item value="CSS" priority="4" />
+      <Item value="label" priority="5" />
+      <Item value="div" priority="74" />
+      <Item value="h4" priority="11" />
+      <Item value="hr" priority="6" />
+      <Item value="li" priority="11" />
+      <Item value="ol" priority="7" />
+      <Item value="Scripts" priority="38" />
+      <Item value="br" priority="5" />
+      <Item value="strong" priority="7" />
+      <Item value="style" priority="35" />
+      <Item value="text-align" priority="20" />
+      <Item value="center" priority="17" />
+      <Item value="x-large" priority="4" />
+      <Item value="background-color" priority="25" />
+      <Item value="darkgray" priority="4" />
+      <Item value="block-1" priority="5" />
+      <Item value="box-1" priority="5" />
+      <Item value="right" priority="8" />
+      <Item value="_ViewStart.cshtml" priority="5" />
+      <Item value="Controllers" priority="11" />
+      <Item value="class" priority="43" />
+      <Item value="yellow" priority="8" />
+      <Item value="id" priority="11" />
+      <Item value="action" priority="17" />
+      <Item value="form" priority="5" />
+      <Item value="Auto.cshtml" priority="5" />
+      <Item value="input" priority="5" />
+      <Item value="type" priority="11" />
+      <Item value="text" priority="5" />
+      <Item value="name" priority="5" />
+      <Item value="b" priority="5" />
+      <Item value="white" priority="8" />
+      <Item value="welcome-message" priority="6" />
+      <Item value="red" priority="8" />
+      <Item value="clear" priority="11" />
+      <Item value="autoBox" priority="6" />
+      <Item value="p" priority="11" />
+      <Item value="script" priority="5" />
+      <Item value="text/javascript" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ASP._Page_Views_Shared_MyLayout_cshtml">
+      <Item value="Context" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SquishIt.Framework.Bundle">
+      <Item value="Css`0" priority="27" />
+      <Item value="JavaScript`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SquishIt.Framework.CSS.CSSBundle">
+      <Item value="Add`0" priority="80" />
+      <Item value="Render`0" priority="26" />
+      <Item value="ForceRelease`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SquishIt.Framework.JavaScript.JavaScriptBundle">
+      <Item value="Add`0" priority="53" />
+      <Item value="Render`0" priority="26" />
+      <Item value="ForceRelease`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Models.Service.Interfaces.IServices">
+      <Item value="Auto" priority="163" />
+      <Item value="Category" priority="80" />
+      <Item value="Department" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Models.Service.Interfaces.ICategoryService">
+      <Item value="SingleOrDefault`0" priority="26" />
+      <Item value="Query`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.UrlHelper">
+      <Item value="Content`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="MyData" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="HasValue" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Controllers.StoreController+AutoModel">
+      <Item value="ShortDescription" priority="26" />
+      <Item value="AutoID" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Controllers.StoreController+AutoModels">
+      <Item value="Autos" priority="53" />
+      <Item value="Base" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.LayoutModel+LayoutBaseModel">
+      <Item value="SiteHeading" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Models.Service.Interfaces.IDepartmentService">
+      <Item value="Query`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.Service.Interfaces.IServices">
+      <Item value="Department" priority="26" />
+      <Item value="Auto" priority="351" />
+      <Item value="ShoppingCart" priority="269" />
+      <Item value="Category" priority="134" />
+      <Item value="Membership" priority="350" />
+      <Item value="Authentication" priority="189" />
+      <Item value="Cloud" priority="26" />
+      <Item value="Config" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.Service.Interfaces.IDepartmentService">
+      <Item value="Query`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.Service.Entities.Department">
+      <Item value="Name" priority="54" />
+      <Item value="DepartmentID" priority="54" />
+      <Item value="Categories" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Controllers.StoreController+IndexStoreModel">
+      <Item value="Departments" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="WebConfigCompletionContext">
+      <Item value="Applicaton" priority="4" />
+      <Item value="Html" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper">
+      <Item value="ViewContext" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ViewContext">
+      <Item value="HttpContext" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContextBase">
+      <Item value="Request" priority="26" />
+      <Item value="Server" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="80" />
+      <Item value="Empty" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int16">
+      <Item value="Parse`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="TryParse`0" priority="26" />
+      <Item value="Parse`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.Service.Entities.Auto">
+      <Item value="Categories" priority="298" />
+      <Item value="Name" priority="137" />
+      <Item value="AutoID" priority="405" />
+      <Item value="CategoryID" priority="162" />
+      <Item value="Category" priority="165" />
+      <Item value="Description" priority="55" />
+      <Item value="Price" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.Service.Entities.Category">
+      <Item value="CategoryID" priority="135" />
+      <Item value="DepartmentID" priority="26" />
+      <Item value="Name" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.Service.Interfaces.IAutoService">
+      <Item value="BrowseDepartmentCategory`0" priority="26" />
+      <Item value="Query`0" priority="109" />
+      <Item value="SingleOrDefault`0" priority="165" />
+      <Item value="Insert`0" priority="54" />
+      <Item value="Update`0" priority="26" />
+      <Item value="Delete`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.Repository.IRepository">
+      <Item value="Query`1" priority="26" />
+      <Item value="SingleOrDefault`1" priority="26" />
+      <Item value="Insert`1" priority="26" />
+      <Item value="Update`1" priority="26" />
+      <Item value="Delete`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.Service.Internal.ShoppingCart">
+      <Item value="CartService" priority="53" />
+      <Item value="OrderDetailService" priority="26" />
+      <Item value="OrderService" priority="26" />
+      <Item value="CreateOrder`0" priority="53" />
+      <Item value="ShoppingCartService" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.Service.Interfaces.IShoppingCartService">
+      <Item value="CartService" priority="80" />
+      <Item value="OrderService" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.Service.Interfaces.ICartService">
+      <Item value="Update`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ninject.IKernel">
+      <Item value="Bind`1" priority="244" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ninject.Syntax.IBindingToSyntax`1">
+      <Item value="To`1" priority="243" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.ViewModels.ShoppingCartViewModel">
+      <Item value="CartItems" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.Service.Entities.Cart">
+      <Item value="Auto" priority="81" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.DbContext">
+      <Item value="SaveChanges`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Controllers.StoreController+AutoDetailsModel">
+      <Item value="Auto" priority="189" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ComponentModel.DataAnnotations.DataType">
+      <Item value="MultilineText" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Controllers.StoreManagerController+AutoDetailsModel">
+      <Item value="Auto" priority="406" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.Service.Interfaces.ICategoryService">
+      <Item value="Query`0" priority="107" />
+      <Item value="SingleOrDefault`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="CssCodeCompletionContext">
+      <Item value="text-align" priority="14" />
+      <Item value="center" priority="3" />
+      <Item value="x-large" priority="1" />
+      <Item value="background-color" priority="39" />
+      <Item value="darkgray" priority="1" />
+      <Item value="right" priority="1" />
+      <Item value="yellow" priority="1" />
+      <Item value="search" priority="10" />
+      <Item value="clear" priority="11" />
+      <Item value="box" priority="4" />
+      <Item value="width" priority="23" />
+      <Item value="white" priority="1" />
+      <Item value="red" priority="1" />
+      <Item value="border-width" priority="5" />
+      <Item value="whitesmoke" priority="27" />
+      <Item value="border" priority="29" />
+      <Item value="black" priority="5" />
+      <Item value="dashed" priority="4" />
+      <Item value="thin" priority="4" />
+      <Item value="padding" priority="17" />
+      <Item value="margin" priority="23" />
+      <Item value="border-radius" priority="11" />
+      <Item value="min-height" priority="5" />
+      <Item value="pageLinks" priority="4" />
+      <Item value="font" priority="5" />
+      <Item value="font-size" priority="21" />
+      <Item value="large" priority="11" />
+      <Item value="rosybrown" priority="4" />
+      <Item value="browseBox" priority="4" />
+      <Item value="position" priority="17" />
+      <Item value="float" priority="23" />
+      <Item value="openid_selected" priority="4" />
+      <Item value="lightsteelblue" priority="4" />
+      <Item value="text-indent" priority="5" />
+      <Item value="gray" priority="6" />
+      <Item value="dotted" priority="6" />
+      <Item value="word-spacing" priority="5" />
+      <Item value="height" priority="5" />
+      <Item value="medium" priority="13" />
+      <Item value="font-weight" priority="5" />
+      <Item value="catMenu" priority="4" />
+      <Item value="depMenu" priority="4" />
+      <Item value="alignment-adjust" priority="5" />
+      <Item value="gainsboro" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ModelStateDictionary">
+      <Item value="AddModelError`0" priority="26" />
+      <Item value="Indexer" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ModelState">
+      <Item value="Errors" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ModelErrorCollection">
+      <Item value="First`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ModelError">
+      <Item value="ErrorMessage" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Controllers.StoreManagerController">
+      <Item value="AssignAutoCategories`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.Service.Interfaces.IAuthenticateService">
+      <Item value="SignIn`0" priority="80" />
+      <Item value="SignOut`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.LogOnModel">
+      <Item value="Password" priority="26" />
+      <Item value="UserName" priority="53" />
+      <Item value="RememberMe" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContext">
+      <Item value="AbstractWorker" priority="19" />
+      <Item value="alert" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Security.MembershipCreateStatus">
+      <Item value="Success" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.Service.Interfaces.IMembershipService">
+      <Item value="RegisterUser`0" priority="26" />
+      <Item value="ChangePassword`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.RegisterModel">
+      <Item value="UserName" priority="53" />
+      <Item value="Password" priority="26" />
+      <Item value="Email" priority="26" />
+      <Item value="OpenID" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Principal.IPrincipal">
+      <Item value="Identity" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Principal.IIdentity">
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.ChangePasswordModel">
+      <Item value="OldPassword" priority="26" />
+      <Item value="NewPassword" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Quartz.MisfireInstruction+SimpleTrigger">
+      <Item value="RescheduleNowWithExistingRepeatCount" priority="26" />
+      <Item value="RescheduleNextWithExistingCount" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTimeOffset">
+      <Item value="Now" priority="26" />
+      <Item value="UtcNow" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="UtcNow" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromSeconds`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Controllers.SearchController+SearchResultModel">
+      <Item value="Name" priority="26" />
+      <Item value="AutoId" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Configuration.WebConfigurationManager">
+      <Item value="OpenWebConfiguration`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Configuration.Configuration">
+      <Item value="GetSection`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.Service.Entities.MyConfig">
+      <Item value="Crossbar" priority="26" />
+      <Item value="ShowCarsInHomePage" priority="26" />
+      <Item value="ShortDescription" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Security.MembershipUser">
+      <Item value="UserName" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.Service.Interfaces.IOrderService">
+      <Item value="Insert`0" priority="26" />
+      <Item value="Query`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.Service.Entities.Order">
+      <Item value="Status" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Quartz.IScheduler">
+      <Item value="ListenerManager" priority="22" />
+      <Item value="JobFactory" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Quartz.IListenerManager">
+      <Item value="AddSchedulerListener`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.Service.Interfaces.ICloudService">
+      <Item value="ArchiveFolder`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpServerUtilityBase">
+      <Item value="MapPath`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:eCar.Applicaton.Models.Service.Interfaces.IConfigService">
+      <Item value="Current" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Autofac.ContainerBuilder">
+      <Item value="Build`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Autofac.Builder.IRegistrationBuilder`3">
+      <Item value="InstancePerDependency`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Quartz.JobBuilder">
+      <Item value="Create`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Quartz.JobBuilder">
+      <Item value="Build`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.DbModelBuilder">
+      <Item value="Configurations" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.ModelConfiguration.Configuration.ConfigurationRegistrar">
+      <Item value="Add`1" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

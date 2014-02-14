@@ -1,0 +1,57 @@
+﻿@using eCar.Controllers
+@model StoreController.AutoModels
+
+@{
+    ViewBag.Title = "The best 5 cars" + " | ";// +Model.Base.SiteHeading;
+}
+@foreach (var auto in Model.Autos)
+{
+    Html.RenderPartial("Auto",auto);
+}
+ <div class="clear"></div>
+ @section Scripts{
+    <link href="@Url.Content("~/Content/css/slider.css")" rel="stylesheet" type="text/css" />
+    <script src="@Url.Content("~/Content/js/tms-0.4.1.js")" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.slider')._TMS({
+                show: 0,
+                pauseOnHover: true,
+                prevBu: '.prev',
+                nextBu: '.next',
+                playBu: false,
+                duration: 500,
+                preset: 'fade',
+                pagination: true, //'.pagination',true,'<ul></ul>'
+                pagNums: false,
+                slideshow: 8000,
+                numStatus: false,
+                banners: 'fromBottom', // fromLeft, fromRight, fromTop, fromBottom
+                waitBannerAnimation: false,
+                progressBar: false
+            });
+
+        });
+        $(function () {
+            if ($(window).width() <= 1066) {
+                $("#slider .prev").css("left", "55px");
+                $("#slider .next").css("right", "55px");
+            }
+        });
+	</script> 
+  }
+  @section Slider{
+  <div id="slider">
+       <div class="slider-block">
+          <div class="slider">
+              <ul class="items">
+                  <li><img src="../../Content/images/slide-1.jpg" alt="" /><div class="banner"><div><span>Ford</span><strong>Сiriure dolor nhendrerit</strong><p>Nam liber tempor cum soluta nobis eleifenoption congue nigfif аil imperdiet doming id quod mazim placerat facer. Lorjem ipsum dolor sit amet, consecer adipiscing elit.</p><a href="#" class="button">Read More</a></div></div></li>
+                  <li><img src="../../Content/images/slide-2.jpg" alt="" /><div class="banner"><div><span>Maserati GT</span><strong>Vulputate velit esse</strong><p>sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis.</p><a href="#" class="button">Read More</a></div></div></li>
+                  <li><img src="../../Content/images/slide-3.jpg" alt="" /><div class="banner"><div><span>Honda HSC</span><strong>Molestie consequat vel</strong><p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit.</p><a href="#" class="button">Read More</a></div></div></li>
+              </ul>
+          </div>
+          <a href="#" class="prev"></a>
+          <a href="#" class="next"></a>
+        </div>
+    </div>
+  }   

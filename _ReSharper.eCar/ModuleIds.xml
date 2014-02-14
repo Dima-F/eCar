@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="CB746CCA-3C29-470A-B3CA-2F2673754EBC" ModuleId="eCar" />
+  <Module PersistentId="9657F8F6-789C-47A9-ACF7-49CB63CCA588" ModuleId="eCar.Tests" />
+  <Module PersistentId="96EEA3DD-EEAC-49B9-A6E5-963CCF4AC6A6" ModuleId="ExperimProj" />
+  <Module PersistentId="10FFE57E-84F5-4AA3-9EFA-C15F0D286482" ModuleId="eCarTest" />
+</Modules>

@@ -1,0 +1,23 @@
+﻿@using eCar.Controllers
+@model SearchController.IndexModel
+
+<article>
+
+    <h1>Search Results</h1>
+
+    @if (Model.Results.Any())
+    {
+        <ul>
+        @foreach (var result in @Model.Results)
+        { 
+            <li>
+                @Html.ActionLink(result.Name, "Details", "Store", new { id = result.AutoId }, null)
+            </li>
+        }
+        </ul>
+    }
+    else
+    { 
+        <p>Sorry, no results matching "@Model.QueryText".</p>
+    }
+</article>

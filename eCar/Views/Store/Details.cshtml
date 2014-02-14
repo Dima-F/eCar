@@ -1,0 +1,31 @@
+﻿@using eCar.Controllers
+@model StoreController.AutoDetailsModel
+
+@{
+    //Здесь должна быть ссылка на текущую категорию, к которой принадлежит машина. Так как у нас связь многие ко многим,
+    //думаю реализовать это нужно через модель представления.
+    ViewBag.Title = "Details" + " | ";// +Model.Base.SiteHeading;
+}
+
+<h2>@Model.Auto.Name</h2>
+<p>
+    <img alt="@Model.Auto.Name" src="@Model.Auto.Image" />
+</p>
+<fieldset>
+    <legend>Auto</legend>
+    <p>
+        <em>Description:</em>
+        @Html.DisplayFor(model => model.Auto.Description)
+    </p>
+    <p>
+        <em>Price:</em>
+        @String.Format("{0:F}", Model.Auto.Price)
+    </p>
+</fieldset>
+<p class="button">
+        @Html.ActionLink("Add to cart", "AddToCart", 
+        "ShoppingCart", new { id = Model.Auto.AutoID }, "")
+</p>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>

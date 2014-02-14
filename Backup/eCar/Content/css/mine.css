@@ -1,0 +1,42 @@
+﻿#search {
+    clear: both;
+    text-align: right;
+    font-size: medium;
+    background-color: whitesmoke;
+}
+
+#search.box {
+    width: 300px;
+}
+
+.autoBox {
+    border: black dashed thin;
+    background-color: whitesmoke;
+    padding: 10px;
+    margin: 20px 30px;
+    border-radius: 10px;
+    height: 250px;
+    width: 200px;
+    float: left;
+}
+.pageLinks {
+    clear: both;
+    font-size: large; 
+}
+.browseBox 
+{
+    margin: 15px;
+    float: left;
+}
+.pageLinks .selected {
+    border: red dotted thin;
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+.catMenu, .depMenu {
+    text-align: center;
+    font-size: medium;
+    border: black solid 1px;
+    padding: 10px;
+    background-color: gainsboro;
+}
